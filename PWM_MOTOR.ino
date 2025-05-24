@@ -1,4 +1,5 @@
 //ESTE PROGRAMA CONTROLA LA VELOCIDAD DEL MOTOR.
+//HOLA FRED COMO ESTAS?
 
 const int LED = 10;
 byte intensidad;  // Porcentaje de 0 a 100
